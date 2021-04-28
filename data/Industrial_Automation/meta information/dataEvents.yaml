@@ -1,0 +1,10 @@
+http://cybergraph/opc#ns_4_i_585374552:
+  http://cybergraph/aml#UAVariable-ultrasonicLeft: 80
+  http://cybergraph/aml#UAVariable-ultrasonicRight: 80
+http://cybergraph/opc#ns_4_i_585374608:
+  http://cybergraph/aml#UAVariable-currentL1: 52
+  http://cybergraph/aml#UAVariable-currentL2: 52
+  http://cybergraph/aml#UAVariable-currentL3: 52
+  http://cybergraph/aml#UAVariable-voltageL1-N: 52
+  http://cybergraph/aml#UAVariable-voltageL2-N: 52
+  http://cybergraph/aml#UAVariable-voltageL3-N: 52
