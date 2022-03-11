@@ -1,6 +1,6 @@
 # Spike-based embeddings for multi-relational graph data
 
-Code for learning spike-based knowledge graph embeddings described in [SpikE: spike-based embeddings for multi-relational graph data](https://arxiv.org/abs/2104.13398) and extended to spike-based (relational) graph convolutional networks in [Learning through structure: towards deep neuromorphic knowledge graph embeddings](https://arxiv.org/abs/2109.10376).
+Code for learning spike-based knowledge graph embeddings described in [SpikE: spike-based embeddings for multi-relational graph data (IJCNN 2021)](https://arxiv.org/abs/2104.13398) and extended to spike-based (relational) graph convolutional networks in [Learning through structure: towards deep neuromorphic knowledge graph embeddings (ICNC 2021)](https://arxiv.org/abs/2109.10376).
 
 ## Introduction
 
